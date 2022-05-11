@@ -1,0 +1,2 @@
+if u give pad inside widget it will affect  internal  child #like padding in  html
+and in pack attribute it will affect the position with respect to widgets parent  # like margin 
